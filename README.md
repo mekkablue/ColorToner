@@ -1,6 +1,6 @@
 # ColorToner
 
-Glyphs.app plug-in for toning darkening shapes in Edit view. For now it only supports darkening components. Useful if you use a canvas color that makes the components disappear.
+Glyphs.app plug-in for darkening shapes in Edit view. For now it only supports darkening components. Useful if you use a canvas color that makes the components disappear.
 
 In the future, may support more color tweaks. Let me know if you need something special.
 

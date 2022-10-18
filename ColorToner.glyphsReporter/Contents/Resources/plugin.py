@@ -14,8 +14,8 @@ class ColorToner(ReporterPlugin):
 	@objc.python_method
 	def settings(self):
 		self.menuName = Glyphs.localize({
-			'en': 'darkened colors',
-			'de': 'abgedunkelte Farben',
+			'en': 'Darkened Colors',
+			'de': 'Abgedunkelte Farben',
 			})
 
 	@objc.python_method
