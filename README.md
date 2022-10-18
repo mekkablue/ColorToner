@@ -6,7 +6,7 @@ In the future, may support more color tweaks. Let me know if you need something 
 
 ## Usage
 
-Choose *View > Show Darkened Colors* (de: *abgedunkelte Farben*), and the shapes will be rendered with 15% black.
+Choose *View > Show Darkened Colors* (de: *abgedunkelte Farben*), and the shapes will be rendered with an extra 15% black.
 
 To change the amount of darkening, run this code in Macro Window:
 
