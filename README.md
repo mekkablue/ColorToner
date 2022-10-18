@@ -19,7 +19,7 @@ Replace `0.15` with the amount you want instead. Maximum (full black) is `1.0`, 
 
 ## Installation
 
-Green Harmony is [available in the Glyphs&nbsp;3 Plugin Manager](glyphsapp3://showplugin/Color%20Toner). Click on the *Install* button next to it and restart Glyphs.
+Color Toner is [available in the Glyphs&nbsp;3 Plugin Manager](glyphsapp3://showplugin/Color%20Toner). Click on the *Install* button next to it and restart Glyphs.
 
 
 ## Requirements
